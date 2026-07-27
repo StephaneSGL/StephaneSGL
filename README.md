@@ -1,12 +1,12 @@
 <div align="center">
 
-# Projets logiciels, automatisation & IA
+# Software Projects, Automation, and AI
 
-### Développement logiciel · Systèmes · Intelligence artificielle
+### Software development · Systems · Artificial intelligence
 
-Je construis des projets orientés logiciel, automatisation et expérimentation technique.
+I build software, automation tools, and technical experiments.
 
-[![Profil GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/StephaneSGL)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/StephaneSGL)
 
 </div>
 
@@ -16,10 +16,10 @@ Je construis des projets orientés logiciel, automatisation et expérimentation 
 <tr>
 <td width="56%" valign="top">
 
-## Activité GitHub
+## GitHub activity
 
-<!-- Le fichier est régénéré automatiquement par GitHub Actions -->
-<img src="./assets/metrics.svg" alt="Métriques GitHub" width="100%">
+<!-- Regenerated automatically by GitHub Actions -->
+<img src="./assets/metrics.svg" alt="GitHub metrics" width="100%">
 
 </td>
 <td width="44%" valign="top">
@@ -30,12 +30,12 @@ Je construis des projets orientés logiciel, automatisation et expérimentation 
 dev@copilot
 -------------------------
 Role: Software developer
-Focus: Programmation
+Focus: Software engineering
 Interests:
   - Software engineering
   - Automation
   - Artificial intelligence
-  - Linux & systems
+  - Linux and systems
 
 Status: Building...
 </pre>
@@ -53,11 +53,11 @@ Status: Building...
 ## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StephaneSGL/StephaneSGL/output/github-contribution-grid-snake-dark.svg" alt="Animation des contributions GitHub">
+  <img src="https://raw.githubusercontent.com/StephaneSGL/StephaneSGL/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation">
 </p>
 
 ---
 
 <div align="center">
-  <sub>Les statistiques et l'animation sont actualisées automatiquement par GitHub Actions.</sub>
+  <sub>Statistics and the contribution animation are refreshed automatically by GitHub Actions.</sub>
 </div>
