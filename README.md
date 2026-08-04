@@ -12,19 +12,6 @@ I build software, automation tools, and technical experiments.
 
 ---
 
-
-<table>
-<tr>
-<td width="56%" valign="top">
-
-## GitHub activity
-
-<!-- Regenerated automatically by GitHub Actions -->
-<img src="./assets/metrics.svg" alt="GitHub metrics" width="100%">
-
-</td>
-<td width="44%" valign="top">
-
 ## Terminal
 
 <pre>
@@ -41,10 +28,6 @@ Interests:
 Status: Building...
 </pre>
 
-</td>
-</tr>
-</table>
-
 ## Technologies
 
 <p align="center">
@@ -60,5 +43,5 @@ Status: Building...
 ---
 
 <div align="center">
-  <sub>Statistics and the contribution animation are refreshed automatically by GitHub Actions.</sub>
+  <sub>The contribution animation is refreshed automatically by GitHub Actions.</sub>
 </div>
