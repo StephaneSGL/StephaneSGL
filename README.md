@@ -12,15 +12,6 @@ I build software, automation tools, and technical experiments.
 
 ---
 
-<!-- graphy-map:start -->
-## Graphy codebase view
-
-[![Graphy codebase view of StephaneSGL showing 5 tracked files, 3 folders, dominant file types and the main areas .github, assets.](docs/graphy/overview.svg)](docs/graphy/Graphy.md)
-
-*Tracked repository structure: files, folders, dominant extensions and a readable directory preview.*
-
-[Open full size](docs/graphy/overview.svg) · [Open the accessible Graphy report](docs/graphy/Graphy.md)
-<!-- graphy-map:end -->
 
 <table>
 <tr>
