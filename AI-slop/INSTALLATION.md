@@ -1,4 +1,6 @@
-# Installation du profil GitHub
+# Installation historique du profil GitHub
+
+> Quarantaine : ce guide décrit l’ancien générateur de métriques, retiré parce qu’il échouait avec le jeton finement limité. Il est conservé uniquement pour traçabilité et ne doit pas servir de procédure actuelle.
 
 ## 1. Créer le dépôt de profil
 
